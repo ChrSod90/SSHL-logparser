@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event-table>
+<event-list>
+<batch>
+<event>
+<timestamp>2020-01-31 09:48:16</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:42:42</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:36:54</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:36:48</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:03:01</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:02:54</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:02:47</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:02:39</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:46:18</timestamp>
+<description>Giltigt kort ANETTE  BRANT (1663266882) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:38</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:34</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:33</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:31</timestamp>
+<description>Giltigt kort Pia Lötbom (96976452) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:27</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-29 12:03:41</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-28 12:39:03</timestamp>
+<description>Giltigt kort ANETTE  BRANT (1663266882) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-28 12:07:59</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-28 12:07:44</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-27 12:15:32</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-27 12:15:24</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+</event-list>
+</event-table>
