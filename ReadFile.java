@@ -30,10 +30,12 @@ public class ReadFile {
                     }
                     if (data.contains("Personal lunchläsare")){
                         System.out.println("Personal Lunch");
-                    }else if(data.contains("Representativ lunchläsare")){
-                        System.out.println("Representativ Lunch");
                     }else if(data.contains("Pedagogisk lunchläsare")){
                         System.out.println("Pedagogisk Lunch");
+                    }else if(data.contains("Representativ lunchläsare")){
+                        System.out.println("Representativ Lunch");
+                    }else{
+                        System.out.println("No lunch..? (error!)");
                     }
                     System.out.println("");
                                        
