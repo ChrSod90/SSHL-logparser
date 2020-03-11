@@ -8,7 +8,7 @@ import  org.apache.poi.hssf.usermodel.HSSFRow;
 public class CreateExlFile{
     public static void main(String[]args) {
         try {
-            String filename = "C:/NewExcelFile.xls" ;
+            String filename = "NewExcelFile.xls" ;
             HSSFWorkbook workbook = new HSSFWorkbook();
             HSSFSheet sheet = workbook.createSheet("FirstSheet");  
 
