@@ -17,11 +17,12 @@ public class ReadFile {
                 String data = myReader.nextLine();
                 
                 if (data.contains("<timestamp>")) {
-                    date = data;
+                    date = data.substring(11, 22);
                 }
+                
                 if (data.contains("<description>Giltigt kort ")) {
                     System.out.println(date);
-                    //System.out.println(data);
+                    System.out.println(data);
                     System.out.println(data.substring(data.indexOf("kort ")+5, data.indexOf(" vid")));
 
                     Matcher m = Pattern.compile("\\(([^)]+)\\)").matcher(data);
