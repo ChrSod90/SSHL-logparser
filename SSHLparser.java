@@ -1,27 +1,49 @@
 import java.io.*;
 import java.util.*;
+import java.util.regex.*;
 
 public class SSHLparser{
     public static void main(String args[]){
-        List<Person> P = new ArrayList<Person>();
+        String date = "N/A";
         HashMap<String, Person> sshl = new HashMap<String, Person>();
-        sshl.put("666", new Person("Raymond S", "666", "2020-xx-xx"));
-        sshl.put("777", new Person("Dalle", "777", "2020-xx-xx"));
-        P.add(new Person("Raymond S", "666", "2020-xx-xx"));
-        // P.get(0).printAll();
-        // P.get(0).addDate("2020-1-2");
-        // P.get(0).countLunch("Pedagogisk");
-        // P.get(0).countLunch("Pedagogisk");
-        // P.get(0).countLunch("Representativ");
-        // P.get(0).countLunch("Personal");
-        // P.get(0).countLunch("Personal");
-        // P.get(0).countLunch("fuck");
-        // P.get(0).printAll();
-        sshl.get("666").printAll();
-        sshl.get("777").printAll();
-        sshl.get("666").countLunch("Personal");
-        sshl.get("777").countLunch("Representativ");
-        sshl.get("666").printAll();
-        sshl.get("777").printAll();
+
+        try {
+            File myObj = new File(args[0]);
+            Scanner myReader = new Scanner(myObj);
+            while (myReader.hasNextLine()) {
+                String data = myReader.nextLine();
+                String name = " ";
+                String id = " ";
+                String lunch = " ";
+                if (data.contains("<timestamp>")) {
+                    date = data.substring(11, 22);
+                }
+                
+                if (data.contains("<description>Giltigt kort "))
+                    {
+                        name = data.substring(data.indexOf("kort ")+5, data.indexOf(" vid"));
+
+                        Matcher m = Pattern.compile("\\(([^)]+)\\)").matcher(data);
+                        while(m.find()) {
+                            id = m.group(1);
+                        }
+
+                        if (data.contains("Personal lunchläsare")){
+                            lunch = "Personal";
+                        }else if(data.contains("Pedagogisk lunchläsare")){
+                            lunch = "Pedagogisk";
+                        }else if(data.contains("Representativ lunchläsare")){
+                            lunch = "Representativ";
+                        }else{
+                            lunch = "ERROR";
+                        }
+                        System.out.println(name + " " + id + " " + lunch + " " + date);
+                    }
+            }
+            myReader.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("An error occurred.");
+            e.printStackTrace();
+        }
     }
 }
