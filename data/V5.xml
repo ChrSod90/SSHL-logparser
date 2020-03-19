@@ -45,6 +45,13 @@
 </batch>
 <batch>
 <event>
+<timestamp>2020-01-30 11:01:54</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
 <timestamp>2020-01-30 11:02:47</timestamp>
 <description>Giltigt kort Pernilla Kleiner (3626301036) vid Representativ lunchläsare, Lunchreg</description>
 <operator></operator>

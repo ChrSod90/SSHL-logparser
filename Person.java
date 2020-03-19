@@ -66,6 +66,9 @@ public class Person{
     public List getDates(){
         return datesCounted;
     }
+    public boolean foundDate(String date){
+        return datesCounted.contains(date);
+    }
 
     public void printAll(){
         System.out.println("Name: " + getName());

@@ -40,8 +40,13 @@ public class SSHLparser{
                         //System.out.println(name + " " + id + " " + lunch + " " + date);
 
                         if(sshl.containsKey(id)){
-                            sshl.get(id).countLunch(lunch);
-                            sshl.get(id).addDate(date);
+                            if(!sshl.get(id).foundDate(date)){
+                                sshl.get(id).countLunch(lunch);
+                                sshl.get(id).addDate(date);    
+                            }else{
+                                System.out.println("Duplicate date {" + date + "} found for " + name+ ". Discarded");
+                                System.out.println(" ");
+                            }                            
                         }else{
                             sshl.put(id, new Person(name, id, date));
                             sshl.get(id).countLunch(lunch);
