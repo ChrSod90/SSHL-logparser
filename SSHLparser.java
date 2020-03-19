@@ -37,10 +37,24 @@ public class SSHLparser{
                         }else{
                             lunch = "ERROR";
                         }
-                        System.out.println(name + " " + id + " " + lunch + " " + date);
+                        //System.out.println(name + " " + id + " " + lunch + " " + date);
+
+                        if(sshl.containsKey(id)){
+                            sshl.get(id).countLunch(lunch);
+                            sshl.get(id).addDate(date);
+                        }else{
+                            sshl.put(id, new Person(name, id, date));
+                            sshl.get(id).countLunch(lunch);
+                        }
+                        
+                        //sshl.get(id).printAll();
                     }
             }
             myReader.close();
+            for (String i : sshl.keySet()) {
+                sshl.get(i).printAll();
+                System.out.println(" ");
+            }
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();

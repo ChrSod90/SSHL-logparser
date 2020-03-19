@@ -7,7 +7,7 @@ public class Person{
     int countPersonal;
     int countPedagogisk;
     int countRepresentativ;
-    ArrayList<String> datesCounted = new ArrayList<String>(1);
+    ArrayList<String> datesCounted = new ArrayList<String>();
 
     Person(String name, String id, String date){
         this.name = name;
