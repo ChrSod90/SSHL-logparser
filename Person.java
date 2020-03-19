@@ -35,13 +35,13 @@ public class Person{
     public void countLunch(String type){
         switch(type)
             {
-            case "personal":
+            case "Personal":
                 countPersonal++;
                 break;
-            case "pedagogisk":
+            case "Pedagogisk":
                 countPedagogisk++;
                 break;
-            case "representativ":
+            case "Representativ":
                 countRepresentativ++;
                 break;
             default:
