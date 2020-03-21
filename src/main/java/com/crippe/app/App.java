@@ -33,13 +33,14 @@ public class App {
                             id = m.group(1);
                         }
 
-                        if (data.contains("Personal lunchläsare")){
+                        if (data.contains("Personal")){
                             lunch = "Personal";
-                        }else if(data.contains("Pedagogisk lunchläsare")){
+                        }else if(data.contains("Pedagogisk")){
                             lunch = "Pedagogisk";
-                        }else if(data.contains("Representativ lunchläsare")){
+                        }else if(data.contains("Representativ")){
                             lunch = "Representativ";
                         }else{
+                            System.out.println(data);
                             lunch = "ERROR";
                         }
                         //System.out.println(name + " " + id + " " + lunch + " " + date);
@@ -85,7 +86,7 @@ public class App {
             rowhead.createCell(1).setCellValue("Name");
             rowhead.createCell(2).setCellValue("Personal Lunch");
             rowhead.createCell(3).setCellValue("Pedagogisk Lunch");
-            rowhead.createCell(3).setCellValue("Representativ Lunch");
+            rowhead.createCell(4).setCellValue("Representativ Lunch");
             int n = 1;
             for (String i : sshl.keySet()) {
                 HSSFRow row = sheet.createRow((short)n);
