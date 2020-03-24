@@ -19,7 +19,7 @@ public class App {
         int result = jFileChooser.showOpenDialog(new JFrame());
         if (result == JFileChooser.APPROVE_OPTION) {
             myObj = jFileChooser.getSelectedFile();
-        }
+        }else{System.exit(1);}
         
         String date = "N/A";
         HashMap<String, Person> sshl = new HashMap<String, Person>();
@@ -90,7 +90,7 @@ public class App {
     
     
         try {
-            String filename = "NewExcelFile.xls" ;
+            String filename = "ParsedLunchLog.xls" ;
             if(args.length == 2){
                 filename = args[1];
             }
@@ -119,7 +119,7 @@ public class App {
             fileOut.close();
             workbook.close();
             System.out.println("Excel file created!");
-
+            System.exit(0);
         } catch ( Exception ex ) {
             System.out.println(ex);
         }
