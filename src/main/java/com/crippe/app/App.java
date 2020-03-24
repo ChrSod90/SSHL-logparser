@@ -6,18 +6,30 @@ import java.util.regex.*;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.hssf.usermodel.HSSFRow;
+import java.io.File;
+import javax.swing.JFileChooser;
+import javax.swing.JFrame;
 
 public class App {
     public static void main(String[]args) {
+        JFileChooser jFileChooser = new JFileChooser();
+        File workingDirectory = new File(System.getProperty("user.dir"));
+        File myObj = new File(System.getProperty("user.dir"));
+        jFileChooser.setCurrentDirectory(workingDirectory);
+        int result = jFileChooser.showOpenDialog(new JFrame());
+        if (result == JFileChooser.APPROVE_OPTION) {
+            myObj = jFileChooser.getSelectedFile();
+        }
+        
         String date = "N/A";
         HashMap<String, Person> sshl = new HashMap<String, Person>();
-
+        
         try {
-            if(args.length == 0){
-                System.out.println("Usage: java -jar app.jar inputFileName.xml outputFileName.xls");
-                System.exit(1);
-            }
-            File myObj = new File(args[0]);
+        //     if(args.length == 0){
+        //         System.out.println("Usage: java -jar app.jar inputFileName.xml outputFileName.xls");
+        //         System.exit(1);
+        //     }
+        //File myObj = new File(args[0]);
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
                 String data = myReader.nextLine();
