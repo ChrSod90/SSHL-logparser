@@ -13,6 +13,10 @@ public class App {
         HashMap<String, Person> sshl = new HashMap<String, Person>();
 
         try {
+            if(args.length == 0){
+                System.out.println("Usage: java -jar app.jar inputFileName.xml outputFileName.xls");
+                System.exit(1);
+            }
             File myObj = new File(args[0]);
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
@@ -62,7 +66,7 @@ public class App {
                     }
             }
             myReader.close();
-            for (String i : sshl.keySet()) {
+            for (String i : sshl.keySet()) {//print all employees
                 sshl.get(i).printAll();
                 System.out.println(" ");
             }
@@ -97,11 +101,6 @@ public class App {
                 row.createCell(4).setCellValue(sshl.get(i).getRepresentativ());
                 n++;
             }
-            // HSSFRow row = sheet.createRow((short)1);
-            // row.createCell(0).setCellValue("1");
-            // row.createCell(1).setCellValue("Sankumarsingh");
-            // row.createCell(2).setCellValue("India");
-            // row.createCell(3).setCellValue("sankumarsingh@gmail.com");
             
             FileOutputStream fileOut = new FileOutputStream(filename);
             workbook.write(fileOut);
