@@ -42,7 +42,7 @@ public class App {
                 
                 if (data.contains("<description>Giltigt kort "))
                     {
-                        name = data.substring(data.indexOf("kort ")+5, data.indexOf(" vid"));
+                        name = data.substring(data.indexOf("kort ")+5, data.indexOf(") vid")+1);
 
                         Matcher m = Pattern.compile("\\(([^)]+)\\)").matcher(data);
                         while(m.find()) {

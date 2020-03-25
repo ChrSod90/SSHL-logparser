@@ -10,6 +10,20 @@
 </batch>
 <batch>
 <event>
+<timestamp>2020-01-31 09:48:16</timestamp>
+<description>Giltigt kort testing videll  (1111111) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:48:16</timestamp>
+<description>Giltigt kort testz0r VIdell  (22222222) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
 <timestamp>2020-01-31 09:42:42</timestamp>
 <description>Giltigt kort Marlene  (292291607) vid Personal lunchläsare, Lunchreg</description>
 <operator></operator>
