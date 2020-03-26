@@ -62,16 +62,21 @@ public class App {
                         //System.out.println(name + " " + id + " " + lunch + " " + date);
 
                         if(sshl.containsKey(id)){
-                            if(!sshl.get(id).foundDate(date)){
+                            if(!sshl.get(id).foundDate(date) && lunch != "ERROR"){
                                 sshl.get(id).countLunch(lunch);
                                 sshl.get(id).addDate(date);    
                             }else{
                                 System.out.println("Duplicate date {" + date + "} found for " + name+ ". Discarded");
                                 System.out.println(" ");
-                            }                            
+                            }
                         }else{
-                            sshl.put(id, new Person(name, id, date));
-                            sshl.get(id).countLunch(lunch);
+                            //System.out.println("new Person made: " + name + " lunch: " + lunch + " date: " + date);
+                            if(lunch != "ERROR"){
+                                sshl.put(id, new Person(name, id, date));
+                                sshl.get(id).countLunch(lunch);
+                            }else{
+                                System.out.println("error lunch found - not creating person");
+                            }
                         }
                     }
             }
