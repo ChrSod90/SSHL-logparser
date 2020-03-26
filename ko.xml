@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event-table>
+<event-list>
+<batch>
+<event>
+<timestamp>2020-03-25 09:51:44</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-03-20 09:29:25</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-03-20 09:29:17</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Övrig lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-03-19 09:56:33</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-03-05 12:35:12</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Övrig lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-03-03 12:00:33</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-21 12:42:40</timestamp>
+<description>Giltigt kort ANETTE  BRANT (1663266882) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-21 12:42:33</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-21 09:43:51</timestamp>
+<description>Giltigt kort MARCUS GABRIELSSON (1663550290) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-21 09:43:47</timestamp>
+<description>Giltigt kort MARCUS GABRIELSSON (1663550290) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-20 12:41:26</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-17 12:28:22</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-17 12:28:19</timestamp>
+<description>Giltigt kort Charlotta forsen (660519702) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-17 12:27:53</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-14 12:11:22</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-14 12:09:19</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-14 12:09:10</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-14 09:54:49</timestamp>
+<description>Giltigt kort Pia Lötbom (96976452) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-13 12:26:46</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-13 12:26:38</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-13 09:25:42</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-12 12:52:52</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-12 12:52:48</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-12 12:52:44</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-11 12:21:17</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-11 12:21:10</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-11 12:20:47</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-11 09:39:18</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-11 09:39:10</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-10 12:34:45</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-06 13:04:38</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Övrig lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-06 13:04:34</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-06 09:47:42</timestamp>
+<description>Giltigt kort ANETTE  BRANT (1663266882) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-06 09:47:30</timestamp>
+<description>Giltigt kort Pia Lötbom (96976452) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-04 12:30:33</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-04 11:56:50</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-03 12:31:16</timestamp>
+<description>Giltigt kort Charlotta forsen (660519702) vid Övrig lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-03 12:31:08</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-02-03 12:31:04</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:48:16</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:42:42</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:36:54</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-31 09:36:48</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:03:01</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:02:54</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:02:47</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 11:02:39</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:46:18</timestamp>
+<description>Giltigt kort ANETTE  BRANT (1663266882) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:38</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:34</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:33</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:31</timestamp>
+<description>Giltigt kort Pia Lötbom (96976452) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-30 09:44:27</timestamp>
+<description>Ogiltigt kort  (3115467864) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-29 12:03:41</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-28 12:39:03</timestamp>
+<description>Giltigt kort ANETTE  BRANT (1663266882) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-28 12:07:59</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-28 12:07:44</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-27 12:15:32</timestamp>
+<description>Giltigt kort Pernilla Kleiner (3626301036) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-27 12:15:24</timestamp>
+<description>Giltigt kort susanne  (823513515) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-24 12:05:46</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-24 12:05:39</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-24 12:05:31</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Övrig lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-24 12:05:23</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-24 12:00:31</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-23 11:46:08</timestamp>
+<description>Giltigt kort Monica Zethelius (823478715) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-23 11:45:56</timestamp>
+<description>Giltigt kort Janette Johansen (134725466) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-23 11:45:50</timestamp>
+<description>Giltigt kort Marlene  (292291607) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-15 08:43:07</timestamp>
+<description>Giltigt kort Daniel öhman (1662812098) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-15 08:43:04</timestamp>
+<description>Giltigt kort Daniel öhman (1662812098) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-15 08:42:59</timestamp>
+<description>Giltigt kort Daniel öhman (1662812098) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 15:28:13</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:47:40</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Övrig lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:47:32</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Personal lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:47:25</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Representativ lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:47:18</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Pedagogisk lunchläsare, Lunchreg</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:39:57</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Övrig lunchläsare, 3 och 4</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:39:49</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Personal lunchläsare, 3 och 4</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:39:44</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Representativ lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:39:41</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:32:00</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Övrig lunchläsare, 3 och 4</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 14:31:53</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Personal lunchläsare, 3 och 4</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 13:59:31</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 13:59:20</timestamp>
+<description>Giltigt kort John Tenggren (658870070) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 13:48:35</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 13:29:02</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:58:49</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:57:24</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:57:17</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:57:10</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:53:12</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:52:48</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+<batch>
+<event>
+<timestamp>2020-01-14 12:52:35</timestamp>
+<description>Giltigt kort Daniel Lundman (1663349970) vid Pedagogisk lunchläsare, 1 och 2</description>
+<operator></operator>
+</event>
+</batch>
+</event-list>
+</event-table>
