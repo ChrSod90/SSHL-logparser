@@ -19,7 +19,7 @@ public class App {
         int result = jFileChooser.showOpenDialog(new JFrame());
         if (result == JFileChooser.APPROVE_OPTION) {
             myObj = jFileChooser.getSelectedFile();
-        }else{System.exit(1);}
+        }else{System.exit(1);} //Exit program if no file is chosen
         
         String date = "N/A";
         HashMap<String, Person> sshl = new HashMap<String, Person>();
@@ -73,12 +73,10 @@ public class App {
                             sshl.put(id, new Person(name, id, date));
                             sshl.get(id).countLunch(lunch);
                         }
-                        
-                        //sshl.get(id).printAll();
                     }
             }
             myReader.close();
-            for (String i : sshl.keySet()) {//print all employees
+            for (String i : sshl.keySet()) {//prints employee data to cmdline for debugging purposes
                 sshl.get(i).printAll();
                 System.out.println(" ");
             }
@@ -91,9 +89,9 @@ public class App {
     
         try {
             String filename = "ParsedLunchLog.xls" ;
-            if(args.length == 2){
-                filename = args[1];
-            }
+            // if(args.length == 2){
+            //     filename = args[1];
+            // }
             HSSFWorkbook workbook = new HSSFWorkbook();
             HSSFSheet sheet = workbook.createSheet("FirstSheet");    
 
