@@ -1,9 +1,9 @@
 # SSHL-logparser
 XML parser for SSHL's lunch registration journal system
 
-##Compile
+## Compile
 mvn assembly:assembly -DdescriptorId=jar-with-dependencies
 
-##Run
+## Run
 java -jar target/sshl-parser-1.0-SNAPSHOT-jar-with-dependencies.jar
 
